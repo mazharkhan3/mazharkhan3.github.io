@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f868352.css",
+    "main.js": "/static/js/main.0ceb7431.js",
+    "static/media/project1.png": "/static/media/project1.b6f5fe70c07e43785472.png",
+    "static/media/profileimage.png": "/static/media/profileimage.858ba2e9434ea5e083f2.png",
+    "static/media/linkimage.svg": "/static/media/linkimage.b48a977cae818c58bbe86bd092f0b8ff.svg",
+    "static/media/UIUX.svg": "/static/media/UIUX.aa0fa2678edbc645d88b05aaff5dd7f5.svg",
+    "static/media/xd.svg": "/static/media/xd.ce0a38eff010917a569cf6d9f8b97c97.svg",
+    "static/media/github-logo.svg": "/static/media/github-logo.3751148baf8412e47a586fdc4ac43c43.svg",
+    "static/media/calendar.svg": "/static/media/calendar.134c1b1a66977159ab0f53a044b29c2e.svg",
+    "static/media/projectimage.svg": "/static/media/projectimage.f25640631c6c1350db626b770ea280e5.svg",
+    "static/media/figma.svg": "/static/media/figma.03294d89b485db4c62d6fcde65919d08.svg",
+    "index.html": "/index.html",
+    "main.4f868352.css.map": "/static/css/main.4f868352.css.map",
+    "main.0ceb7431.js.map": "/static/js/main.0ceb7431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f868352.css",
+    "static/js/main.0ceb7431.js"
+  ]
+}
